@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="9288" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ዮሐንስ፡ ወንጌላዊ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yoḥannəs Wangelāwi</title>
+        <title corresp="#t1" xml:lang="en">Image of John the Evangelist</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+      <sourceDesc>
+        <listWit>
+          
+          <witness corresp="EMML8937"/>
+          
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="john-evangelist">
+                <persName xml:lang="gez">ዮሐንስ፡ ወንጌላዊ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yoḥannəs Wangelāwi</persName>
+                <persName xml:lang="en">John the Evangelist</persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          
+          <lg type="stanza" n="1">
+            
+            
+            <l n="1">ሰላም፡ ሰላም፡ ለዝክረ፡ ስምከ፡ አዳም፨</l>
+            
+            
+            <l n="2">ወለሥዕርተ፡ ርእስከ፡ ፍትው፡ ምስለ፡ ሥነ፡ ገጹ፡ ምአድም፨</l>
+            
+            
+            <l n="3">ጽጌ፡ መንፈስ፡ ቅዱስ፡ ዮሐንስ፡ ዘመዐዛከ፡ ጥዑም፨</l>
+            
+            
+            <l n="4">ያንበልብል፡ ነደ፡ ፍቅርከ፡ ውስተ፡ ልብየ፡ ገዳም፨</l>
+            
+            
+            <l n="5">ወአጥፍኦቶ፡ ኢይከሀል፡ መዋዒ፡ ዝናም፨</l>
+            
+          </lg>
+          
+          
+          
+          <lg type="stanza" n="12">
+            
+            
+            <l n="1">ሰላም፡ ለፀአተ፡ ነፍስከ፡ ወለበድነ፡ ሥጋከ፡ ሥዉር፨</l>
+            
+            
+            <l n="2">አልቦ፡ ዘየአምሮ፡ እንበለ፡ ፋጊር፨</l>
+            
+            
+            <l n="3">ጽጌ፡ መንፈስ፡ ቅዱስ፡ ዮሐንስ፡ ወለዓለመ፡ ሐሤት፡ ማእረር፨</l>
+            
+            
+            <l n="4">ማዕፀደ፡ አፉየ፡ ከላስስተ፡ ተስፋ፡ ሥሙር፨</l>
+            
+            
+            <l n="5">እምሰብለ፡ ማሕሌትከ፡ ይእርር፡ በኵሉ፡ አሚር፨</l>
+            
+          </lg>
+          
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

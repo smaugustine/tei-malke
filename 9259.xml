@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="9259" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ማርያም፡ ድንግል፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Māryām Dəngəl</title>
+        <title corresp="#t1" xml:lang="en">Image of Virgin Mary</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+      <sourceDesc>
+        <listWit>
+          
+          <witness corresp="EMDA118"/>
+          
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="mary">
+                <persName xml:lang="gez">ማርያም፡ ድንግል፡</persName>
+                <persName xml:lang="gez" type="normalized">Māryām Dəngəl</persName>
+                <persName xml:lang="en">Virgin Mary</persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          
+          <lg type="stanza" n="1">
+            
+            
+            <l n="1">ተማሕፀንኩ፡ በዝክረ፡ ስምኪ፡ ዘራብዕ፡ ፊደሉ፨</l>
+            
+            
+            <l n="2">ከመ፡ ትበሊዮ፡ ሊተ፡ ማርያም፡ መዝገበ፡ ሣህሉ፨</l>
+            
+            
+            <l n="3">ኢትሰምዕኑ፡ እግዚአብሔር፡ ሰማዔ፡ ኵሉ፨</l>
+            
+            
+            <l n="4">ብካየ፡ ገብርከ፡ ወእውያተ፡ ማኅዘን፡ ቃሉ፨</l>
+            
+            
+            <l n="5">ኦዘለከ፡ ርኅራኄ፡ ይደሉ፨</l>
+            
+          </lg>
+          
+          
+          
+          <lg type="stanza" n="2">
+            
+            
+            <l n="1">ተማሕፀንኩ፡ በአክሊልኪ፡ ላዕለ፡ ርእስኪ፡ ዘሀሎ፨</l>
+            
+            
+            <l n="2">ማርያም፡ በሊዮ፡ በአንኆ፡ ጸሎት፡ ወተማሕልሎ፨</l>
+            
+            
+            <l n="3">እግዚአብሔር፡ ርኢ፡ ድካመ፡ ገብርከ፡ ወተሣሀሎ፨</l>
+            
+            
+            <l n="4">ኦዘትርኢ፡ ቀላያተ፡ ወዕመቀ፡ ዕመቃት፡ ኵሎ፨</l>
+            
+            
+            <l n="5">እንዘ፡ ዲበ፡ ኪሩብ፡ ሀሎከ፡ ወትፄዐን፡ ዐውሎ፨</l>
+            
+          </lg>
+          
+          
+          
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>
