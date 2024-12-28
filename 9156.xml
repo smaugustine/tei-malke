@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="9156" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፊቅጦር፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Fiqṭor</title>
+        <title corresp="#t1" xml:lang="en">Image of Victor</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+      <sourceDesc>
+        <listWit>
+          
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="victor">
+                <persName xml:lang="gez">ፊቅጦር፡</persName>
+                <persName xml:lang="gez" type="normalized">Fiqṭor</persName>
+                <persName xml:lang="en">Victor</persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          
+          <lg type="stanza" n="1">
+            
+            
+            <l n="1">ሰላም፡ ለፅንሰትከ፡ ለማርታ፡ በማሕፀና፨</l>
+            
+            
+            <l n="2">ሶበ፡ ጸለየት፡ ተአሚና፨</l>
+            
+            
+            <l n="3">ሥዕለ፡ ማርያም፡ አመረታ፡ ርእሳ፡ አጽኒና፨</l>
+            
+            
+            <l n="4"></l>
+            
+            
+            <l n="5"></l>
+            
+          </lg>
+          
+          
+          
+          <lg type="stanza" n="2">
+            
+            
+            <l n="1">ሰላም፡ ለልደትከ፡ ሕፃነ፡ ማርታ፡ ኅሩይ፨</l>
+            
+            
+            <l n="2">ዘወረደ፡ ለከ፡ ልብሰ፡ ወርቅ፡ እምሰማይ፨</l>
+            
+            
+            <l n="3"></l>
+            
+            
+            <l n="4"></l>
+            
+            
+            <l n="5"></l>
+            
+          </lg>
+          
+          
+          
+          <lg type="stanza" n="3">
+            
+            
+            <l n="1">ሰላም፡ ለሥዕርተ፡ ርእስከ፡ ዱላሌሁ፡ ዘአደመ፨</l>
+            
+            
+            <l n="2">በቀብዐ፡ ጸጋ፡ ዘተኀትመ፨</l>
+            
+            
+            <l n="3"></l>
+            
+            
+            <l n="4"></l>
+            
+            
+            <l n="5"></l>
+            
+          </lg>
+          
+          
+          
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>

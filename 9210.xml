@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="9210" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሲኖዳ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Sinodā</title>
+        <title corresp="#t1" xml:lang="en">Image of Sinodā</title>
+        
+      </titleStmt>
+
+      <publicationStmt>
+        <authority>
+          <persName>
+            <forename>Augustine</forename>
+            <surname>Dickinson</surname>
+          </persName>
+        </authority>
+        <date>2024</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Malkəʾa Gubāʾe</p>
+      </sourceDesc>
+      <sourceDesc>
+        <listWit>
+          
+          <witness corresp="EMML1297"/>
+          
+          <witness corresp="DimmaUnesco1023"/>
+          
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="gez">Gǝʿǝz</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+
+      
+      <listRelation>
+        <relation name="subjects">
+          <desc>
+            <listPerson>
+              
+              
+              <person xml:id="sinoda">
+                <persName xml:lang="gez">ሲኖዳ፡</persName>
+                <persName xml:lang="gez" type="normalized">Sinodā</persName>
+                <persName xml:lang="en">Sinodā</persName>
+                <trait></trait>
+              </person>
+              
+            </listPerson>
+          </desc>
+        </relation>
+      </listRelation>
+      
+
+      <div type="edition" xml:lang="gez">
+
+        
+
+        <div type="textpart" xml:id="malke">
+          
+          
+          <lg type="stanza" n="1">
+            
+            
+            <l n="1">ለወልደ፡ ነጐድጓድ፡ ዮሐንስ፡ ወለእለ፡ ኬፋ፡ አብያጺሁ፨</l>
+            
+            
+            <l n="2">ዘወሀብኮሙ፡ ሥልጣነ፡ ማእስረ፡ ኀጢኣት፡ ይፍትሑ፨</l>
+            
+            
+            <l n="3">ጰራቅሊጦስ፡ ነዓ፡ አናቅጸ፡ ልብየ፡ ታርኁ፨</l>
+            
+            
+            <l n="4">ለአባ፡ ሲኖዳ፡ ከመ፡ እዜኑ፡ ዜናሁ፨</l>
+            
+            
+            <l n="5">እስመ፡ ድኅረ፡ ማዕረር፡ አኀዝኩ፡ ወወጠንኩ፡ ናሁ፨</l>
+            
+          </lg>
+          
+          
+          
+          <lg type="stanza" n="2">
+            
+            
+            <l n="1">ሰላም፡ ለዝክረ፡ ስምከ፡ በትርሲተ፡ ጸጋ፡ ወሞገስ፨</l>
+            
+            
+            <l n="2">ዘአሠርገዎ፡ ፍጹመ፡ ሊቀ፡ ካህናት፡ ክርስቶስ፨</l>
+            
+            
+            <l n="3">ገባሬ፡ መንክራት፡ ሲኖዳ፡ ከመ፡ ጊዮርጊስ፨</l>
+            
+            
+            <l n="4">እስከ፡ እፌጽም፡ ስብሐቲከ፡ እምኀዘነ፡ ሥጋ፡ ወነፍስ፨</l>
+            
+            
+            <l n="5">ለበግዐ፡ ቤትከ፡ ዕቀበኒ፡ ኖላዊ፡ ሐዲስ፨</l>
+            
+          </lg>
+          
+          
+          
+          
+        </div>
+
+        
+        
+      </div>
+
+      
+
+    </body>
+
+  </text>
+</TEI>
