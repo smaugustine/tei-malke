@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ </title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa </title>
-        <title corresp="#t1" xml:lang="en">Image of </title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ሉቃስ፡ ዘጉቦር፡ ሓበላ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Luqās za-Gubor Ḥābalā</title>
+        <title corresp="#t1" xml:lang="en">Image of Luqās of Gubor Ḥābalā</title>
         
       </titleStmt>
 
@@ -143,11 +143,11 @@
             <listPerson>
               
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait type="category"><desc></desc></trait>
+              <person xml:id="luqas-gubor-habala">
+                <persName xml:lang="gez">ሉቃስ፡ ዘጉቦር፡ ሓበላ፡</persName>
+                <persName xml:lang="gez" type="normalized">Luqās za-Gubor Ḥābalā</persName>
+                <persName xml:lang="en">Luqās of Gubor Ḥābalā</persName>
+                <trait type="category"><desc>righteous</desc></trait>
 
                 
               </person>
