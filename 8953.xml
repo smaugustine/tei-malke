@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ </title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa </title>
-        <title corresp="#t1" xml:lang="en">Image of </title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ አብርሃም፡ ዘደብረ፡ ጽዮን፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa ʾAbrǝhām za-Dabra Ṣǝyon</title>
+        <title corresp="#t1" xml:lang="en">Image of ʾAbrǝhām of Dabra Ṣǝyon</title>
         
       </titleStmt>
 
@@ -104,12 +104,29 @@
             <listPerson>
               
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait type="category"><desc></desc></trait>
+              <person xml:id="abreham-d-seyon">
+                <persName xml:lang="gez">አብርሃም፡ ዘደብረ፡ ጽዮን፡</persName>
+                <persName xml:lang="gez" type="normalized">ʾAbrǝhām za-Dabra Ṣǝyon</persName>
+                <persName xml:lang="en">ʾAbrǝhām of Dabra Ṣǝyon</persName>
+                <trait type="category"><desc>righteous</desc></trait>
 
+                
+                <biblStruct type="journalArticle" xml:id="Kinefe-Rigb_Zelleke1975" corresp="http://zotero.org/groups/5599348/items/UN6NW4IP">
+                  <analytic>
+                    <title level="a">Bibliography of the Ethiopic Hagiographical Traditions</title>
+                    <author><name>Kinefe-Rigb Zelleke</name></author>
+                  </analytic>
+                  <monogr>
+                    <title level="j">Journal of Ethiopian Studies</title>
+                    <imprint>
+                      <biblScope unit="volume">13</biblScope>
+                      <biblScope unit="issue">2</biblScope>
+                      <biblScope unit="page">57–102</biblScope>
+                      <date>1975</date>
+                    </imprint>
+                  </monogr>
+                  <citedRange unit="item">5</citedRange>
+                </biblStruct>
                 
               </person>
               

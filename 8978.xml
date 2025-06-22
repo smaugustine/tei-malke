@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ </title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa </title>
-        <title corresp="#t1" xml:lang="en">Image of </title>
+        <title xml:id="t1" xml:lang="gez">መልክአ፡ ይባርከነ፡ ክርስቶስ፡</title>
+        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Yǝbārkanna Krǝstos</title>
+        <title corresp="#t1" xml:lang="en">Image of Yǝbārkanna Krǝstos</title>
         
       </titleStmt>
 
@@ -110,11 +110,11 @@
             <listPerson>
               
               
-              <person xml:id="">
-                <persName xml:lang="gez"></persName>
-                <persName xml:lang="gez" type="normalized"></persName>
-                <persName xml:lang="en"></persName>
-                <trait type="category"><desc></desc></trait>
+              <person xml:id="yebarkanna-krestos">
+                <persName xml:lang="gez">ይባርከነ፡ ክርስቶስ፡</persName>
+                <persName xml:lang="gez" type="normalized">Yǝbārkanna Krǝstos</persName>
+                <persName xml:lang="en">Yǝbārkanna Krǝstos</persName>
+                <trait type="category"><desc>righteous</desc></trait>
 
                 
               </person>
