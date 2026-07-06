@@ -5,9 +5,7 @@
     <fileDesc>
       <titleStmt>
         
-        <title xml:id="t1" xml:lang="gez">መልክአ፡ ፅንሰታ፡ ለማርያም፡</title>
-        <title corresp="#t1" xml:lang="gez" type="normalized">Malkəʾa Ḍǝnsatā la-Māryām</title>
-        <title corresp="#t1" xml:lang="en">Image of the Conception of Mary</title>
+        <title xml:lang="en">Malkəʾ-Hymn for the Conception of Mary</title>
         
       </titleStmt>
 
@@ -28,21 +26,7 @@
 
       <sourceDesc>
         <listWit>
-          
-          
-          
-          <witness xml:id="">
-            <msDesc>
-              <msIdentifier>
-                <settlement></settlement>
-                <repository></repository>
-                <idno></idno>
-              </msIdentifier>
-            </msDesc>
-            <locus>14ra-14vb</locus>
-          </witness>
-          
-          
+          <witness corresp="Tanasee22"/>
         </listWit>
       </sourceDesc>
 
